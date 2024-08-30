@@ -7,3 +7,5 @@ Essa aplicação serve para estudos de responsividade e boas práticas de design
 React: Para criar componentes reutilizáveis e gerenciar o estado da aplicação.
 CSS: Para estilização dos componentes, incluindo layout, tipografia e cores. Media queries são usadas para tornar o design responsivo.
 Vite: Como o build tool e servidor de desenvolvimento, oferecendo um ambiente de desenvolvimento rápido e otimizado.
+
+https://feed-project-l0gud82vw-gabriel-pedrosos-projects.vercel.app
