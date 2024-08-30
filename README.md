@@ -1,8 +1,11 @@
-# React + Vite
+# Projeto Feed de Redes Sociais (apenas o front)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##Objetivo Educacional
+Essa aplicação serve para estudos de responsividade e boas práticas de design de interfaces em React. O foco está em aprender como utilizar media queries para adaptar o layout e como estruturar componentes React de forma eficiente em uma aplicação moderna de rede social.
 
-Currently, two official plugins are available:
+##Tecnologias Utilizadas
+React: Para criar componentes reutilizáveis e gerenciar o estado da aplicação.
+CSS: Para estilização dos componentes, incluindo layout, tipografia e cores. Media queries são usadas para tornar o design responsivo.
+Vite: Como o build tool e servidor de desenvolvimento, oferecendo um ambiente de desenvolvimento rápido e otimizado.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### React + Vite
